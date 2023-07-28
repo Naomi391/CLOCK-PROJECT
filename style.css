@@ -95,7 +95,7 @@ img {
   transform: rotate(30deg);
 }
 
-.arrows .seconds {
+.arrows .second {
   transform: rotate(250deg);
   background-color: blueviolet;
 }
